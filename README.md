@@ -4,4 +4,4 @@ Reach me: sathyaganesan.b2w@gmail.com
 
 Sharing updates on [LinkeIn](www.linkedin.com/in/sathya-ganesan-dev)
 
-
+![Sathya Ganesan github stats](https://github-readme-stats.vercel.app/api?username=sathyaganesan&show_icons=true&hide=[%22issues%22])
