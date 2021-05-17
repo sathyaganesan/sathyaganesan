@@ -28,7 +28,7 @@ Sharing updates on [LinkeIn](www.linkedin.com/in/sathya-ganesan-dev)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_QMQU86---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6dnng3pre04xxdebia1g.png" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://miro.medium.com/max/730/1*Jr3NFSKTfQWRUyjblBSKeg.jpeg" alt="nodejs" width="40" height="40"/> </a> 
   
   <a href="https://postman.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
