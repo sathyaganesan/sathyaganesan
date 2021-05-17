@@ -19,7 +19,7 @@ Sharing updates on [LinkeIn](www.linkedin.com/in/sathya-ganesan-dev)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
   <a href="http://www.postgres.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-horizontal.svg" alt="postgres" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="40" height="40"/> </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
