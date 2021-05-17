@@ -25,10 +25,10 @@ Sharing updates on [LinkeIn](www.linkedin.com/in/sathya-ganesan-dev)
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="DBeaver" width="40" height="40"/> </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="40"/> </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
-  <img src="https://miro.medium.com/max/730/1*Jr3NFSKTfQWRUyjblBSKeg.jpeg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://miro.medium.com/max/730/1*Jr3NFSKTfQWRUyjblBSKeg.jpeg" alt="nodejs" width="60" height="40"/> </a> 
   
   <a href="https://postman.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
