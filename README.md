@@ -24,9 +24,7 @@ Sharing updates on [LinkeIn](www.linkedin.com/in/sathya-ganesan-dev)
    <a href="http://www.postgres.org/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="DBeaver" width="40" height="40"/> </a> 
   
-  <a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg" alt="nodejs" width="60" height="40"/> </a> 
-  
+    
   <a href="https://nodejs.org" target="_blank"> 
   <img src="https://miro.medium.com/max/730/1*Jr3NFSKTfQWRUyjblBSKeg.jpeg" alt="nodejs" width="70" height="40"/> </a> 
   
